@@ -1,0 +1,9 @@
+{
+  "/not-found": "app/not-found.js",
+  "/routeHandler/page": "app/routeHandler/page.js",
+  "/serverComponent/page": "app/serverComponent/page.js",
+  "/static/page": "app/static/page.js",
+  "/dynamic/page": "app/dynamic/page.js",
+  "/generateStaticParams/page": "app/generateStaticParams/page.js",
+  "/parallelRoutes/page": "app/parallelRoutes/page.js"
+}
